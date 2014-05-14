@@ -1,0 +1,14 @@
+{
+  "name": "jquery-plugin-toolkit",
+  "version": "1.0.0",
+  "description": "Collection of jQuery plugins for form validation, modals, and UI interactions",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jest --coverage",
+    "lint": "eslint src/"
+  },
+  "keywords": [],
+  "author": "superdev1211",
+  "license": "MIT"
+}
